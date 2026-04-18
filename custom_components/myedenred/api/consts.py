@@ -1,8 +1,8 @@
-DEFAULT_COUNTRY = "PT"
+DEFAULT_COUNTRY = "RO"
 
 COUNTRIES = [
     { "value": DEFAULT_COUNTRY, "label": "Portugal" },
-    { "value": "PO", "label": "Romania" },
+    { "value": "RO", "label": "Romania" },
 ]
 
 API_LOGIN_URL = {
