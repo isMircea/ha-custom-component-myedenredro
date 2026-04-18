@@ -15,7 +15,7 @@ _LOGGER.setLevel(logging.DEBUG)
 
 
 class MyEdenredAPI:
-    """Interfaces to https://myedenred.pt/"""
+    """Interfaces to https://myedenred.ro/"""
 
     def __init__(self, websession, country: str):
         self.websession = websession
