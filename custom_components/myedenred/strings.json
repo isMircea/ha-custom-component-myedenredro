@@ -11,14 +11,14 @@
                     "includeTransactions": "Include the transaction list?"
                 },
                 "data_description": {
-                    "username": "The email used to login in https://www.myedenred.pt/ portal",
-                    "password": "The password used to login in https://www.myedenred.pt/ portal",
+                    "username": "The email used to login in https://www.myedenred.ro/ portal",
+                    "password": "The password used to login in https://www.myedenred.ro/ portal",
                     "includeTransactions": "Include the transaction list"
                 }
             }
         },
         "error": {
-            "auth": "Invalid credentials accessing https://www.myedenred.pt/ portal."
+            "auth": "Invalid credentials accessing https://www.myedenred.ro/ portal."
         },
         "abort": {
             "single_instance_allowed": "Only a single configuration of myEdenred is allowed.",
